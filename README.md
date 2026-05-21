@@ -1,1 +1,3 @@
-<img src="https://github-stats-extended.vercel.app/api?username=eb-alanchang&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=eb-alanchang&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=eb-alanchang&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=eb-alanchang&theme=dark&locale=zh_Hant&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
